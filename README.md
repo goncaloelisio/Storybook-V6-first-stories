@@ -1,4 +1,4 @@
-# Getting Start
+# Getting Started
 
 - npm install
 - npm run storybook
