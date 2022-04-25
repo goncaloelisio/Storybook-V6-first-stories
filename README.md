@@ -1,3 +1,14 @@
+# Getting Start
+
+- npm install
+- npm run storybook
+
+It covers : 
+
+- first buttons and input examples
+- Chakra UI
+- withA11y addon 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
